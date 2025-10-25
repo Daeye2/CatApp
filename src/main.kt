@@ -1,6 +1,9 @@
 fun main() {
     val binnie = Cat("Binnie", 10, 10)
     val clyde = Cat("Clyde", 5, 5)
+    val flatHead = Cat("FlatHead", 7, 10)
+    val cupra = Cat("Cupra", 2, 7)
+
     binnie.walk()
     clyde.walk()
 
