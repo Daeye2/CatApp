@@ -3,6 +3,10 @@ fun main() {
     val clyde = Cat("Clyde", 5, 5)
     binnie.walk()
     clyde.walk()
+
+    binnie.eat()
+    clyde.eat()
+
     println(binnie)
     println(clyde)
 }
