@@ -9,7 +9,11 @@ fun main() {
 
     binnie.eat()
     clyde.eat()
+    flatHead.walk()
+    cupra.walk()
 
     println(binnie)
     println(clyde)
+    println(flatHead)
+    println(cupra)
 }
