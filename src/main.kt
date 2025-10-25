@@ -11,6 +11,8 @@ fun main() {
     clyde.eat()
     flatHead.walk()
     cupra.walk()
+    flatHead.eat()
+    cupra.eat()
 
     println(binnie)
     println(clyde)
